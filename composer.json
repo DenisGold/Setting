@@ -1,7 +1,7 @@
 {
-  "name": "idavoll/setting-module",
+  "name": "denisgold/setting-module",
   "type": "asgard-module",
-  "description": "Setting module for AsgardCMS. Handles all the site settings.",
+  "description": "Setting module for AsgardCMS. Handles all the site settings by Denis Stoliarchuk.",
   "keywords": [
     "asgardcms",
     "settings"
@@ -9,16 +9,11 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Nicolas Widart",
-      "email": "info@asgardcms.com",
+      "name": "Denis Stoliarchuk",
+      "email": "dartius@mail.ru",
       "role": "Developer"
     }
   ],
-  "support": {
-    "email": "support@asgardcms.com",
-    "issues": "https://github.com/AsgardCms/Platform/issues",
-    "source": "https://github.com/AsgardCms/Setting"
-  },
   "require": {
     "php": ">=7.0.0",
     "composer/installers": "~1.0",
